@@ -1,0 +1,1129 @@
+{
+    "0": {
+        "name": "Acid Spray",
+        "type": "Poison",
+        "power": "20",
+        "energy": "50",
+        "Cooldown": "3"
+    },
+    "1": {
+        "name": "Aerial Ace",
+        "type": "Flying",
+        "power": "55",
+        "energy": "33",
+        "Cooldown": "2.4"
+    },
+    "2": {
+        "name": "Air Cutter",
+        "type": "Flying",
+        "power": "60",
+        "energy": "50",
+        "Cooldown": "2.7"
+    },
+    "3": {
+        "name": "Ancient Power",
+        "type": "Rock",
+        "power": "70",
+        "energy": "33",
+        "Cooldown": "3.5"
+    },
+    "4": {
+        "name": "Aqua Jet",
+        "type": "Water",
+        "power": "45",
+        "energy": "33",
+        "Cooldown": "2.6"
+    },
+    "5": {
+        "name": "Aqua Tail",
+        "type": "Water",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "1.9"
+    },
+    "6": {
+        "name": "Aura Sphere",
+        "type": "Fighting",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "1.8"
+    },
+    "7": {
+        "name": "Aurora Beam",
+        "type": "Ice",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "3.55"
+    },
+    "8": {
+        "name": "Avalanche",
+        "type": "Ice",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "2.7"
+    },
+    "9": {
+        "name": "Blast Burn",
+        "type": "Fire",
+        "power": "110",
+        "energy": "50",
+        "Cooldown": "3.3"
+    },
+    "10": {
+        "name": "Blaze Kick",
+        "type": "Fire",
+        "power": "45",
+        "energy": "33",
+        "Cooldown": "1.2"
+    },
+    "11": {
+        "name": "Blizzard",
+        "type": "Ice",
+        "power": "130",
+        "energy": "100",
+        "Cooldown": "3.1"
+    },
+    "12": {
+        "name": "Body Slam",
+        "type": "Normal",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "1.9"
+    },
+    "13": {
+        "name": "Bone Club",
+        "type": "Ground",
+        "power": "40",
+        "energy": "33",
+        "Cooldown": "1.6"
+    },
+    "14": {
+        "name": "Brave Bird",
+        "type": "Flying",
+        "power": "90",
+        "energy": "100",
+        "Cooldown": "2"
+    },
+    "15": {
+        "name": "Brick Break",
+        "type": "Fighting",
+        "power": "40",
+        "energy": "33",
+        "Cooldown": "1.6"
+    },
+    "16": {
+        "name": "Brine",
+        "type": "Water",
+        "power": "60",
+        "energy": "50",
+        "Cooldown": "2.3"
+    },
+    "17": {
+        "name": "Bubble Beam",
+        "type": "Water",
+        "power": "45",
+        "energy": "33",
+        "Cooldown": "1.9"
+    },
+    "18": {
+        "name": "Bug Buzz",
+        "type": "Bug",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "3.7"
+    },
+    "19": {
+        "name": "Bulldoze",
+        "type": "Ground",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "3.5"
+    },
+    "20": {
+        "name": "Close Combat",
+        "type": "Fighting",
+        "power": "100",
+        "energy": "100",
+        "Cooldown": "2.3"
+    },
+    "21": {
+        "name": "Crabhammer",
+        "type": "Water",
+        "power": "85",
+        "energy": "50",
+        "Cooldown": "1.9"
+    },
+    "22": {
+        "name": "Cross Chop",
+        "type": "Fighting",
+        "power": "50",
+        "energy": "50",
+        "Cooldown": "1.5"
+    },
+    "23": {
+        "name": "Cross Poison",
+        "type": "Poison",
+        "power": "40",
+        "energy": "33",
+        "Cooldown": "1.5"
+    },
+    "24": {
+        "name": "Crunch",
+        "type": "Dark",
+        "power": "70",
+        "energy": "33",
+        "Cooldown": "3.2"
+    },
+    "25": {
+        "name": "Crush Claw",
+        "type": "Normal",
+        "power": "0",
+        "energy": "0",
+        "Cooldown": "1.9"
+    },
+    "26": {
+        "name": "Dark Pulse",
+        "type": "Dark",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "3"
+    },
+    "27": {
+        "name": "Dazzling Gleam",
+        "type": "Fairy",
+        "power": "100",
+        "energy": "50",
+        "Cooldown": "3.5"
+    },
+    "28": {
+        "name": "Dig",
+        "type": "Ground",
+        "power": "100",
+        "energy": "50",
+        "Cooldown": "4.7"
+    },
+    "29": {
+        "name": "Disarming Voice",
+        "type": "Fairy",
+        "power": "70",
+        "energy": "33",
+        "Cooldown": "3.9"
+    },
+    "30": {
+        "name": "Discharge",
+        "type": "Electric",
+        "power": "65",
+        "energy": "33",
+        "Cooldown": "2.5"
+    },
+    "31": {
+        "name": "Doom Desire",
+        "type": "Steel",
+        "power": "70",
+        "energy": "33",
+        "Cooldown": "1.7"
+    },
+    "32": {
+        "name": "Draco Meteor",
+        "type": "Dragon",
+        "power": "150",
+        "energy": "100",
+        "Cooldown": "3.6"
+    },
+    "33": {
+        "name": "Dragon Claw",
+        "type": "Dragon",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "1.7"
+    },
+    "34": {
+        "name": "Dragon Pulse",
+        "type": "Dragon",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "3.6"
+    },
+    "35": {
+        "name": "Drain Punch",
+        "type": "Fighting",
+        "power": "0",
+        "energy": "0",
+        "Cooldown": "2.4"
+    },
+    "36": {
+        "name": "Draining Kiss",
+        "type": "Fairy",
+        "power": "60",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "37": {
+        "name": "Drill Peck",
+        "type": "Flying",
+        "power": "60",
+        "energy": "33",
+        "Cooldown": "2.3"
+    },
+    "38": {
+        "name": "Drill Run",
+        "type": "Ground",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "2.8"
+    },
+    "39": {
+        "name": "Dynamic Punch",
+        "type": "Fighting",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "2.7"
+    },
+    "40": {
+        "name": "Earth Power",
+        "type": "Ground",
+        "power": "100",
+        "energy": "50",
+        "Cooldown": "3.6"
+    },
+    "41": {
+        "name": "Earthquake",
+        "type": "Ground",
+        "power": "140",
+        "energy": "100",
+        "Cooldown": "3.6"
+    },
+    "42": {
+        "name": "Energy Ball",
+        "type": "Grass",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "3.9"
+    },
+    "43": {
+        "name": "Fell Stinger",
+        "type": "Bug",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "2.2"
+    },
+    "44": {
+        "name": "Fire Blast",
+        "type": "Fire",
+        "power": "140",
+        "energy": "100",
+        "Cooldown": "4.2"
+    },
+    "45": {
+        "name": "Fire Punch",
+        "type": "Fire",
+        "power": "55",
+        "energy": "33",
+        "Cooldown": "2.2"
+    },
+    "46": {
+        "name": "Fissure",
+        "type": "Ground",
+        "power": "0",
+        "energy": "0",
+        "Cooldown": "2.8"
+    },
+    "47": {
+        "name": "Flame Burst",
+        "type": "Fire",
+        "power": "70",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "48": {
+        "name": "Flame Charge",
+        "type": "Fire",
+        "power": "70",
+        "energy": "33",
+        "Cooldown": "3.8"
+    },
+    "49": {
+        "name": "Flame Wheel",
+        "type": "Fire",
+        "power": "60",
+        "energy": "50",
+        "Cooldown": "2.7"
+    },
+    "50": {
+        "name": "Flamethrower",
+        "type": "Fire",
+        "power": "70",
+        "energy": "50",
+        "Cooldown": "2.2"
+    },
+    "51": {
+        "name": "Flash Cannon",
+        "type": "Steel",
+        "power": "100",
+        "energy": "100",
+        "Cooldown": "2.7"
+    },
+    "52": {
+        "name": "Flying Press",
+        "type": "Fighting",
+        "power": "110",
+        "energy": "50",
+        "Cooldown": "2.3"
+    },
+    "53": {
+        "name": "Focus Blast",
+        "type": "Fighting",
+        "power": "140",
+        "energy": "100",
+        "Cooldown": "3.5"
+    },
+    "54": {
+        "name": "Foul Play",
+        "type": "Dark",
+        "power": "70",
+        "energy": "50",
+        "Cooldown": "2"
+    },
+    "55": {
+        "name": "Frenzy Plant",
+        "type": "Grass",
+        "power": "100",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "56": {
+        "name": "Frustration",
+        "type": "Normal",
+        "power": "10",
+        "energy": "33",
+        "Cooldown": "2"
+    },
+    "57": {
+        "name": "Futuresight",
+        "type": "Psychic",
+        "power": "120",
+        "energy": "100",
+        "Cooldown": "2.7"
+    },
+    "58": {
+        "name": "Giga Drain",
+        "type": "Grass",
+        "power": "50",
+        "energy": "100",
+        "Cooldown": "3.9"
+    },
+    "59": {
+        "name": "Giga Impact",
+        "type": "Normal",
+        "power": "200",
+        "energy": "100",
+        "Cooldown": "4.7"
+    },
+    "60": {
+        "name": "Grass Knot",
+        "type": "Grass",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "61": {
+        "name": "Gunk Shot",
+        "type": "Poison",
+        "power": "130",
+        "energy": "100",
+        "Cooldown": "3.1"
+    },
+    "62": {
+        "name": "Gyro Ball",
+        "type": "Steel",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "3.3"
+    },
+    "63": {
+        "name": "Heart Stamp",
+        "type": "Psychic",
+        "power": "40",
+        "energy": "33",
+        "Cooldown": "1.9"
+    },
+    "64": {
+        "name": "Heat Wave",
+        "type": "Fire",
+        "power": "95",
+        "energy": "100",
+        "Cooldown": "3"
+    },
+    "65": {
+        "name": "Heavy Slam",
+        "type": "Steel",
+        "power": "70",
+        "energy": "50",
+        "Cooldown": "2.1"
+    },
+    "66": {
+        "name": "Horn Attack",
+        "type": "Normal",
+        "power": "40",
+        "energy": "33",
+        "Cooldown": "1.85"
+    },
+    "67": {
+        "name": "Horn Drill",
+        "type": "Normal",
+        "power": "0",
+        "energy": "0",
+        "Cooldown": "1.9"
+    },
+    "68": {
+        "name": "Hurricane",
+        "type": "Flying",
+        "power": "110",
+        "energy": "100",
+        "Cooldown": "2.7"
+    },
+    "69": {
+        "name": "Hydro Cannon",
+        "type": "Water",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "1.9"
+    },
+    "70": {
+        "name": "Hydro Pump",
+        "type": "Water",
+        "power": "130",
+        "energy": "100",
+        "Cooldown": "3.3"
+    },
+    "71": {
+        "name": "Hydro Pump Blastoise",
+        "type": "Water",
+        "power": "90",
+        "energy": "100",
+        "Cooldown": "4.5"
+    },
+    "72": {
+        "name": "Hyper Beam",
+        "type": "Normal",
+        "power": "150",
+        "energy": "100",
+        "Cooldown": "3.8"
+    },
+    "73": {
+        "name": "Hyper Fang",
+        "type": "Normal",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "2.5"
+    },
+    "74": {
+        "name": "Ice Beam",
+        "type": "Ice",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "3.3"
+    },
+    "75": {
+        "name": "Ice Punch",
+        "type": "Ice",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "1.9"
+    },
+    "76": {
+        "name": "Icy Wind",
+        "type": "Ice",
+        "power": "60",
+        "energy": "33",
+        "Cooldown": "3.3"
+    },
+    "77": {
+        "name": "Iron Head",
+        "type": "Steel",
+        "power": "60",
+        "energy": "50",
+        "Cooldown": "1.9"
+    },
+    "78": {
+        "name": "Last Resort",
+        "type": "Normal",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "2.9"
+    },
+    "79": {
+        "name": "Leaf Blade",
+        "type": "Grass",
+        "power": "70",
+        "energy": "33",
+        "Cooldown": "2.4"
+    },
+    "80": {
+        "name": "Leaf Tornado",
+        "type": "Grass",
+        "power": "45",
+        "energy": "33",
+        "Cooldown": "3.1"
+    },
+    "81": {
+        "name": "Leech Life",
+        "type": "Bug",
+        "power": "0",
+        "energy": "0",
+        "Cooldown": "2.5"
+    },
+    "82": {
+        "name": "Low Sweep",
+        "type": "Fighting",
+        "power": "40",
+        "energy": "33",
+        "Cooldown": "1.9"
+    },
+    "83": {
+        "name": "Lunge",
+        "type": "Bug",
+        "power": "0",
+        "energy": "0",
+        "Cooldown": "2.9"
+    },
+    "84": {
+        "name": "Magnet Bomb",
+        "type": "Steel",
+        "power": "70",
+        "energy": "33",
+        "Cooldown": "2.8"
+    },
+    "85": {
+        "name": "Mega Drain",
+        "type": "Grass",
+        "power": "25",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "86": {
+        "name": "Megahorn",
+        "type": "Bug",
+        "power": "110",
+        "energy": "100",
+        "Cooldown": "2.2"
+    },
+    "87": {
+        "name": "Meteor Mash",
+        "type": "Steel",
+        "power": "100",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "88": {
+        "name": "Mirror Coat",
+        "type": "Psychic",
+        "power": "60",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "89": {
+        "name": "Mirror Shot",
+        "type": "Steel",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "2.4"
+    },
+    "90": {
+        "name": "Moonblast",
+        "type": "Fairy",
+        "power": "130",
+        "energy": "100",
+        "Cooldown": "3.9"
+    },
+    "91": {
+        "name": "Mud Bomb",
+        "type": "Ground",
+        "power": "55",
+        "energy": "33",
+        "Cooldown": "2.3"
+    },
+    "92": {
+        "name": "Muddy Water",
+        "type": "Water",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "2.2"
+    },
+    "93": {
+        "name": "Night Shade",
+        "type": "Ghost",
+        "power": "60",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "94": {
+        "name": "Night Slash",
+        "type": "Dark",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "2.2"
+    },
+    "95": {
+        "name": "Octazooka",
+        "type": "Water",
+        "power": "50",
+        "energy": "50",
+        "Cooldown": "2.3"
+    },
+    "96": {
+        "name": "Ominous Wind",
+        "type": "Ghost",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "2.3"
+    },
+    "97": {
+        "name": "Origin Pulse",
+        "type": "Water",
+        "power": "130",
+        "energy": "100",
+        "Cooldown": "1.7"
+    },
+    "98": {
+        "name": "Outrage",
+        "type": "Dragon",
+        "power": "110",
+        "energy": "50",
+        "Cooldown": "3.9"
+    },
+    "99": {
+        "name": "Overheat",
+        "type": "Fire",
+        "power": "160",
+        "energy": "100",
+        "Cooldown": "4"
+    },
+    "100": {
+        "name": "Parabolic Charge",
+        "type": "Electric",
+        "power": "25",
+        "energy": "50",
+        "Cooldown": "2.8"
+    },
+    "101": {
+        "name": "Petal Blizzard",
+        "type": "Grass",
+        "power": "110",
+        "energy": "100",
+        "Cooldown": "2.6"
+    },
+    "102": {
+        "name": "Play Rough",
+        "type": "Fairy",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "2.9"
+    },
+    "103": {
+        "name": "Poison Fang",
+        "type": "Poison",
+        "power": "35",
+        "energy": "33",
+        "Cooldown": "1.7"
+    },
+    "104": {
+        "name": "Power Gem",
+        "type": "Rock",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "2.9"
+    },
+    "105": {
+        "name": "Power Up Punch",
+        "type": "Fighting",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "2"
+    },
+    "106": {
+        "name": "Power Whip",
+        "type": "Grass",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "107": {
+        "name": "Precipice Blades",
+        "type": "Ground",
+        "power": "130",
+        "energy": "100",
+        "Cooldown": "1.7"
+    },
+    "108": {
+        "name": "Psybeam",
+        "type": "Psychic",
+        "power": "70",
+        "energy": "50",
+        "Cooldown": "3.2"
+    },
+    "109": {
+        "name": "Psychic",
+        "type": "Psychic",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "2.8"
+    },
+    "110": {
+        "name": "Psycho Boost",
+        "type": "Psychic",
+        "power": "70",
+        "energy": "50",
+        "Cooldown": "4"
+    },
+    "111": {
+        "name": "Psyshock",
+        "type": "Psychic",
+        "power": "65",
+        "energy": "33",
+        "Cooldown": "2.7"
+    },
+    "112": {
+        "name": "Psystrike",
+        "type": "Psychic",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "2.3"
+    },
+    "113": {
+        "name": "Razor Shell",
+        "type": "Water",
+        "power": "0",
+        "energy": "0",
+        "Cooldown": "1.3"
+    },
+    "114": {
+        "name": "Rest",
+        "type": "Normal",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "1.9"
+    },
+    "115": {
+        "name": "Return",
+        "type": "Normal",
+        "power": "35",
+        "energy": "33",
+        "Cooldown": "0.7"
+    },
+    "116": {
+        "name": "Rock Blast",
+        "type": "Rock",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "2.1"
+    },
+    "117": {
+        "name": "Rock Slide",
+        "type": "Rock",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "2.7"
+    },
+    "118": {
+        "name": "Rock Tomb",
+        "type": "Rock",
+        "power": "70",
+        "energy": "50",
+        "Cooldown": "3.2"
+    },
+    "119": {
+        "name": "Rock Wrecker",
+        "type": "Rock",
+        "power": "110",
+        "energy": "50",
+        "Cooldown": "3.6"
+    },
+    "120": {
+        "name": "Sacred Sword",
+        "type": "Fighting",
+        "power": "55",
+        "energy": "33",
+        "Cooldown": "1.2"
+    },
+    "121": {
+        "name": "Sand Tomb",
+        "type": "Ground",
+        "power": "60",
+        "energy": "33",
+        "Cooldown": "4"
+    },
+    "122": {
+        "name": "Scald",
+        "type": "Water",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "3.7"
+    },
+    "123": {
+        "name": "Scald Blastoise",
+        "type": "Water",
+        "power": "50",
+        "energy": "100",
+        "Cooldown": "4.7"
+    },
+    "124": {
+        "name": "Seed Bomb",
+        "type": "Grass",
+        "power": "55",
+        "energy": "33",
+        "Cooldown": "2.1"
+    },
+    "125": {
+        "name": "Shadow Ball",
+        "type": "Ghost",
+        "power": "100",
+        "energy": "50",
+        "Cooldown": "3"
+    },
+    "126": {
+        "name": "Shadow Bone",
+        "type": "Ghost",
+        "power": "0",
+        "energy": "0",
+        "Cooldown": "2.8"
+    },
+    "127": {
+        "name": "Shadow Punch",
+        "type": "Ghost",
+        "power": "40",
+        "energy": "33",
+        "Cooldown": "1.7"
+    },
+    "128": {
+        "name": "Shadow Sneak",
+        "type": "Ghost",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "2.9"
+    },
+    "129": {
+        "name": "Signal Beam",
+        "type": "Bug",
+        "power": "75",
+        "energy": "50",
+        "Cooldown": "2.9"
+    },
+    "130": {
+        "name": "Silver Wind",
+        "type": "Bug",
+        "power": "70",
+        "energy": "33",
+        "Cooldown": "3.7"
+    },
+    "131": {
+        "name": "Skull Bash",
+        "type": "Normal",
+        "power": "130",
+        "energy": "100",
+        "Cooldown": "3.1"
+    },
+    "132": {
+        "name": "Sky Attack",
+        "type": "Flying",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "2"
+    },
+    "133": {
+        "name": "Sludge",
+        "type": "Poison",
+        "power": "50",
+        "energy": "33",
+        "Cooldown": "2.1"
+    },
+    "134": {
+        "name": "Sludge Bomb",
+        "type": "Poison",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "2.3"
+    },
+    "135": {
+        "name": "Sludge Wave",
+        "type": "Poison",
+        "power": "110",
+        "energy": "100",
+        "Cooldown": "3.2"
+    },
+    "136": {
+        "name": "Solar Beam",
+        "type": "Grass",
+        "power": "180",
+        "energy": "100",
+        "Cooldown": "4.9"
+    },
+    "137": {
+        "name": "Stomp",
+        "type": "Normal",
+        "power": "55",
+        "energy": "50",
+        "Cooldown": "1.7"
+    },
+    "138": {
+        "name": "Stone Edge",
+        "type": "Rock",
+        "power": "100",
+        "energy": "100",
+        "Cooldown": "2.3"
+    },
+    "139": {
+        "name": "Struggle",
+        "type": "Normal",
+        "power": "35",
+        "energy": "0",
+        "Cooldown": "2.2"
+    },
+    "140": {
+        "name": "Submission",
+        "type": "Fighting",
+        "power": "60",
+        "energy": "50",
+        "Cooldown": "2.2"
+    },
+    "141": {
+        "name": "Super Power",
+        "type": "Fighting",
+        "power": "85",
+        "energy": "50",
+        "Cooldown": "3"
+    },
+    "142": {
+        "name": "Surf",
+        "type": "Water",
+        "power": "65",
+        "energy": "50",
+        "Cooldown": "1.7"
+    },
+    "143": {
+        "name": "Swift",
+        "type": "Normal",
+        "power": "60",
+        "energy": "50",
+        "Cooldown": "2.8"
+    },
+    "144": {
+        "name": "Synchronoise",
+        "type": "Psychic",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "145": {
+        "name": "Thunder",
+        "type": "Electric",
+        "power": "100",
+        "energy": "100",
+        "Cooldown": "2.4"
+    },
+    "146": {
+        "name": "Thunder Punch",
+        "type": "Electric",
+        "power": "45",
+        "energy": "33",
+        "Cooldown": "1.8"
+    },
+    "147": {
+        "name": "Thunderbolt",
+        "type": "Electric",
+        "power": "80",
+        "energy": "50",
+        "Cooldown": "2.5"
+    },
+    "148": {
+        "name": "Twister",
+        "type": "Dragon",
+        "power": "45",
+        "energy": "33",
+        "Cooldown": "2.8"
+    },
+    "149": {
+        "name": "Vice Grip",
+        "type": "Normal",
+        "power": "35",
+        "energy": "33",
+        "Cooldown": "1.9"
+    },
+    "150": {
+        "name": "Water Pulse",
+        "type": "Water",
+        "power": "70",
+        "energy": "50",
+        "Cooldown": "3.2"
+    },
+    "151": {
+        "name": "Weather Ball Fire",
+        "type": "Fire",
+        "power": "60",
+        "energy": "33",
+        "Cooldown": "1.6"
+    },
+    "152": {
+        "name": "Weather Ball Ice",
+        "type": "Ice",
+        "power": "60",
+        "energy": "33",
+        "Cooldown": "1.6"
+    },
+    "153": {
+        "name": "Weather Ball Rock",
+        "type": "Normal",
+        "power": "60",
+        "energy": "33",
+        "Cooldown": "1.6"
+    },
+    "154": {
+        "name": "Weather Ball Water",
+        "type": "Water",
+        "power": "60",
+        "energy": "33",
+        "Cooldown": "1.6"
+    },
+    "155": {
+        "name": "Wild Charge",
+        "type": "Electric",
+        "power": "90",
+        "energy": "50",
+        "Cooldown": "2.6"
+    },
+    "156": {
+        "name": "Wrap",
+        "type": "Normal",
+        "power": "60",
+        "energy": "33",
+        "Cooldown": "2.9"
+    },
+    "157": {
+        "name": "Wrap Green",
+        "type": "Normal",
+        "power": "25",
+        "energy": "33",
+        "Cooldown": "2.9"
+    },
+    "158": {
+        "name": "Wrap Pink",
+        "type": "Normal",
+        "power": "25",
+        "energy": "33",
+        "Cooldown": "2.9"
+    },
+    "159": {
+        "name": "X Scissor",
+        "type": "Bug",
+        "power": "45",
+        "energy": "33",
+        "Cooldown": "1.6"
+    },
+    "160": {
+        "name": "Zap Cannon",
+        "type": "Electric",
+        "power": "140",
+        "energy": "100",
+        "Cooldown": "3.7"
+    }
+}
