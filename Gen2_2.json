@@ -1,0 +1,16 @@
+{
+    "0": {
+        "name": "Zigzagoon (Galarian)",
+        "MAXCP": "508",
+        "ATTACK": "58",
+        "DEFENSE": "80",
+        "STAMINA": "116"
+    },
+    "1": {
+        "name": "Linoone (Galarian)",
+        "MAXCP": "1662",
+        "ATTACK": "142",
+        "DEFENSE": "128",
+        "STAMINA": "186"
+    }
+}

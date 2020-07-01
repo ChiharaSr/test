@@ -1,0 +1,702 @@
+{
+    "0": {
+        "name": "Victini",
+        "MAXCP": "3265",
+        "ATTACK": "210",
+        "DEFENSE": "210",
+        "STAMINA": "225"
+    },
+    "1": {
+        "name": "Snivy",
+        "MAXCP": "849",
+        "ATTACK": "88",
+        "DEFENSE": "107",
+        "STAMINA": "128"
+    },
+    "2": {
+        "name": "Servine",
+        "MAXCP": "1441",
+        "ATTACK": "122",
+        "DEFENSE": "152",
+        "STAMINA": "155"
+    },
+    "3": {
+        "name": "Serperior",
+        "MAXCP": "2277",
+        "ATTACK": "161",
+        "DEFENSE": "204",
+        "STAMINA": "181"
+    },
+    "4": {
+        "name": "Tepig",
+        "MAXCP": "1083",
+        "ATTACK": "115",
+        "DEFENSE": "85",
+        "STAMINA": "163"
+    },
+    "5": {
+        "name": "Pignite",
+        "MAXCP": "1924",
+        "ATTACK": "173",
+        "DEFENSE": "106",
+        "STAMINA": "207"
+    },
+    "6": {
+        "name": "Emboar",
+        "MAXCP": "2982",
+        "ATTACK": "235",
+        "DEFENSE": "127",
+        "STAMINA": "242"
+    },
+    "7": {
+        "name": "Oshawott",
+        "MAXCP": "1046",
+        "ATTACK": "117",
+        "DEFENSE": "85",
+        "STAMINA": "146"
+    },
+    "8": {
+        "name": "Dewott",
+        "MAXCP": "1741",
+        "ATTACK": "159",
+        "DEFENSE": "116",
+        "STAMINA": "181"
+    },
+    "9": {
+        "name": "Samurott",
+        "MAXCP": "2826",
+        "ATTACK": "212",
+        "DEFENSE": "157",
+        "STAMINA": "216"
+    },
+    "10": {
+        "name": "Patrat",
+        "MAXCP": "791",
+        "ATTACK": "98",
+        "DEFENSE": "73",
+        "STAMINA": "128"
+    },
+    "11": {
+        "name": "Watchog",
+        "MAXCP": "1819",
+        "ATTACK": "165",
+        "DEFENSE": "139",
+        "STAMINA": "155"
+    },
+    "12": {
+        "name": "Lillipup",
+        "MAXCP": "915",
+        "ATTACK": "107",
+        "DEFENSE": "86",
+        "STAMINA": "128"
+    },
+    "13": {
+        "name": "Herdier",
+        "MAXCP": "1583",
+        "ATTACK": "145",
+        "DEFENSE": "126",
+        "STAMINA": "163"
+    },
+    "14": {
+        "name": "Stoutland",
+        "MAXCP": "2827",
+        "ATTACK": "206",
+        "DEFENSE": "182",
+        "STAMINA": "198"
+    },
+    "15": {
+        "name": "Purrloin",
+        "MAXCP": "772",
+        "ATTACK": "98",
+        "DEFENSE": "73",
+        "STAMINA": "121"
+    },
+    "16": {
+        "name": "Liepard",
+        "MAXCP": "1846",
+        "ATTACK": "187",
+        "DEFENSE": "106",
+        "STAMINA": "162"
+    },
+    "17": {
+        "name": "Pansage",
+        "MAXCP": "956",
+        "ATTACK": "104",
+        "DEFENSE": "94",
+        "STAMINA": "137"
+    },
+    "18": {
+        "name": "Simisage",
+        "MAXCP": "2350",
+        "ATTACK": "206",
+        "DEFENSE": "133",
+        "STAMINA": "181"
+    },
+    "19": {
+        "name": "Pansear",
+        "MAXCP": "956",
+        "ATTACK": "104",
+        "DEFENSE": "94",
+        "STAMINA": "137"
+    },
+    "20": {
+        "name": "Simisear",
+        "MAXCP": "2350",
+        "ATTACK": "206",
+        "DEFENSE": "133",
+        "STAMINA": "181"
+    },
+    "21": {
+        "name": "Panpour",
+        "MAXCP": "956",
+        "ATTACK": "104",
+        "DEFENSE": "94",
+        "STAMINA": "137"
+    },
+    "22": {
+        "name": "Simipour",
+        "MAXCP": "2350",
+        "ATTACK": "206",
+        "DEFENSE": "133",
+        "STAMINA": "181"
+    },
+    "23": {
+        "name": "Munna",
+        "MAXCP": "1145",
+        "ATTACK": "111",
+        "DEFENSE": "92",
+        "STAMINA": "183"
+    },
+    "24": {
+        "name": "Musharna",
+        "MAXCP": "2723",
+        "ATTACK": "183",
+        "DEFENSE": "166",
+        "STAMINA": "253"
+    },
+    "25": {
+        "name": "Pidove",
+        "MAXCP": "848",
+        "ATTACK": "98",
+        "DEFENSE": "80",
+        "STAMINA": "137"
+    },
+    "26": {
+        "name": "Tranquill",
+        "MAXCP": "1442",
+        "ATTACK": "144",
+        "DEFENSE": "107",
+        "STAMINA": "158"
+    },
+    "27": {
+        "name": "Unfezant",
+        "MAXCP": "2734",
+        "ATTACK": "226",
+        "DEFENSE": "146",
+        "STAMINA": "190"
+    },
+    "28": {
+        "name": "Blitzle",
+        "MAXCP": "882",
+        "ATTACK": "118",
+        "DEFENSE": "64",
+        "STAMINA": "128"
+    },
+    "29": {
+        "name": "Zebstrika",
+        "MAXCP": "2428",
+        "ATTACK": "211",
+        "DEFENSE": "136",
+        "STAMINA": "181"
+    },
+    "30": {
+        "name": "Roggenrola",
+        "MAXCP": "1205",
+        "ATTACK": "121",
+        "DEFENSE": "110",
+        "STAMINA": "146"
+    },
+    "31": {
+        "name": "Boldore",
+        "MAXCP": "2029",
+        "ATTACK": "174",
+        "DEFENSE": "143",
+        "STAMINA": "172"
+    },
+    "32": {
+        "name": "Gigalith",
+        "MAXCP": "3228",
+        "ATTACK": "226",
+        "DEFENSE": "201",
+        "STAMINA": "198"
+    },
+    "33": {
+        "name": "Woobat",
+        "MAXCP": "1016",
+        "ATTACK": "107",
+        "DEFENSE": "85",
+        "STAMINA": "163"
+    },
+    "34": {
+        "name": "Swoobat",
+        "MAXCP": "1716",
+        "ATTACK": "161",
+        "DEFENSE": "119",
+        "STAMINA": "167"
+    },
+    "35": {
+        "name": "Drilbur",
+        "MAXCP": "1376",
+        "ATTACK": "154",
+        "DEFENSE": "85",
+        "STAMINA": "155"
+    },
+    "36": {
+        "name": "Excadrill",
+        "MAXCP": "3244",
+        "ATTACK": "255",
+        "DEFENSE": "129",
+        "STAMINA": "242"
+    },
+    "37": {
+        "name": "Audino",
+        "MAXCP": "1682",
+        "ATTACK": "114",
+        "DEFENSE": "163",
+        "STAMINA": "230"
+    },
+    "38": {
+        "name": "Timburr",
+        "MAXCP": "1315",
+        "ATTACK": "134",
+        "DEFENSE": "87",
+        "STAMINA": "181"
+    },
+    "39": {
+        "name": "Gurdurr",
+        "MAXCP": "2169",
+        "ATTACK": "180",
+        "DEFENSE": "134",
+        "STAMINA": "198"
+    },
+    "40": {
+        "name": "Conkeldurr",
+        "MAXCP": "3337",
+        "ATTACK": "243",
+        "DEFENSE": "158",
+        "STAMINA": "233"
+    },
+    "41": {
+        "name": "Tympole",
+        "MAXCP": "839",
+        "ATTACK": "98",
+        "DEFENSE": "78",
+        "STAMINA": "137"
+    },
+    "42": {
+        "name": "Palpitoad",
+        "MAXCP": "1392",
+        "ATTACK": "128",
+        "DEFENSE": "109",
+        "STAMINA": "181"
+    },
+    "43": {
+        "name": "Seismitoad",
+        "MAXCP": "2564",
+        "ATTACK": "188",
+        "DEFENSE": "150",
+        "STAMINA": "233"
+    },
+    "44": {
+        "name": "Throh",
+        "MAXCP": "2562",
+        "ATTACK": "172",
+        "DEFENSE": "160",
+        "STAMINA": "260"
+    },
+    "45": {
+        "name": "Sawk",
+        "MAXCP": "2788",
+        "ATTACK": "231",
+        "DEFENSE": "153",
+        "STAMINA": "181"
+    },
+    "46": {
+        "name": "Sewaddle",
+        "MAXCP": "977",
+        "ATTACK": "96",
+        "DEFENSE": "124",
+        "STAMINA": "128"
+    },
+    "47": {
+        "name": "Swadloon",
+        "MAXCP": "1370",
+        "ATTACK": "115",
+        "DEFENSE": "162",
+        "STAMINA": "146"
+    },
+    "48": {
+        "name": "Leavanny",
+        "MAXCP": "2580",
+        "ATTACK": "205",
+        "DEFENSE": "165",
+        "STAMINA": "181"
+    },
+    "49": {
+        "name": "Venipede",
+        "MAXCP": "706",
+        "ATTACK": "83",
+        "DEFENSE": "99",
+        "STAMINA": "102"
+    },
+    "50": {
+        "name": "Whirlipede",
+        "MAXCP": "1144",
+        "ATTACK": "100",
+        "DEFENSE": "173",
+        "STAMINA": "120"
+    },
+    "51": {
+        "name": "Scolipede",
+        "MAXCP": "2447",
+        "ATTACK": "203",
+        "DEFENSE": "175",
+        "STAMINA": "155"
+    },
+    "52": {
+        "name": "Cottonee",
+        "MAXCP": "700",
+        "ATTACK": "71",
+        "DEFENSE": "111",
+        "STAMINA": "120"
+    },
+    "53": {
+        "name": "Whimsicott",
+        "MAXCP": "2014",
+        "ATTACK": "164",
+        "DEFENSE": "176",
+        "STAMINA": "155"
+    },
+    "54": {
+        "name": "Petilil",
+        "MAXCP": "1030",
+        "ATTACK": "119",
+        "DEFENSE": "91",
+        "STAMINA": "128"
+    },
+    "55": {
+        "name": "Lilligant",
+        "MAXCP": "2550",
+        "ATTACK": "214",
+        "DEFENSE": "155",
+        "STAMINA": "172"
+    },
+    "56": {
+        "name": "Basculin (Blue Striped)",
+        "MAXCP": "2090",
+        "ATTACK": "189",
+        "DEFENSE": "129",
+        "STAMINA": "172"
+    },
+    "57": {
+        "name": "Basculin (Red Striped)",
+        "MAXCP": "2090",
+        "ATTACK": "189",
+        "DEFENSE": "129",
+        "STAMINA": "172"
+    },
+    "58": {
+        "name": "Sandile",
+        "MAXCP": "1037",
+        "ATTACK": "132",
+        "DEFENSE": "69",
+        "STAMINA": "137"
+    },
+    "59": {
+        "name": "Krokorok",
+        "MAXCP": "1418",
+        "ATTACK": "155",
+        "DEFENSE": "90",
+        "STAMINA": "155"
+    },
+    "60": {
+        "name": "Krookodile",
+        "MAXCP": "3046",
+        "ATTACK": "229",
+        "DEFENSE": "158",
+        "STAMINA": "216"
+    },
+    "61": {
+        "name": "Darumaka",
+        "MAXCP": "1442",
+        "ATTACK": "153",
+        "DEFENSE": "86",
+        "STAMINA": "172"
+    },
+    "62": {
+        "name": "Darumaka (Galarian)",
+        "MAXCP": "1442",
+        "ATTACK": "153",
+        "DEFENSE": "86",
+        "STAMINA": "172"
+    },
+    "63": {
+        "name": "Darmanitan (Galarian Standard)",
+        "MAXCP": "3105",
+        "ATTACK": "263",
+        "DEFENSE": "114",
+        "STAMINA": "233"
+    },
+    "64": {
+        "name": "Darmanitan (Galarian Zen)",
+        "MAXCP": "3905",
+        "ATTACK": "323",
+        "DEFENSE": "123",
+        "STAMINA": "233"
+    },
+    "65": {
+        "name": "Darmanitan (Standard)",
+        "MAXCP": "3105",
+        "ATTACK": "263",
+        "DEFENSE": "114",
+        "STAMINA": "233"
+    },
+    "66": {
+        "name": "Darmanitan (Zen)",
+        "MAXCP": "3738",
+        "ATTACK": "243",
+        "DEFENSE": "202",
+        "STAMINA": "233"
+    },
+    "67": {
+        "name": "Maractus",
+        "MAXCP": "2274",
+        "ATTACK": "201",
+        "DEFENSE": "130",
+        "STAMINA": "181"
+    },
+    "68": {
+        "name": "Dwebble",
+        "MAXCP": "1224",
+        "ATTACK": "118",
+        "DEFENSE": "128",
+        "STAMINA": "137"
+    },
+    "69": {
+        "name": "Crustle",
+        "MAXCP": "2542",
+        "ATTACK": "188",
+        "DEFENSE": "200",
+        "STAMINA": "172"
+    },
+    "70": {
+        "name": "Scraggy",
+        "MAXCP": "1372",
+        "ATTACK": "132",
+        "DEFENSE": "132",
+        "STAMINA": "137"
+    },
+    "71": {
+        "name": "Scrafty",
+        "MAXCP": "2283",
+        "ATTACK": "163",
+        "DEFENSE": "222",
+        "STAMINA": "163"
+    },
+    "72": {
+        "name": "Sigilyph",
+        "MAXCP": "2550",
+        "ATTACK": "204",
+        "DEFENSE": "167",
+        "STAMINA": "176"
+    },
+    "73": {
+        "name": "Yamask",
+        "MAXCP": "982",
+        "ATTACK": "95",
+        "DEFENSE": "141",
+        "STAMINA": "116"
+    },
+    "74": {
+        "name": "Cofagrigus",
+        "MAXCP": "2273",
+        "ATTACK": "163",
+        "DEFENSE": "237",
+        "STAMINA": "151"
+    },
+    "75": {
+        "name": "Tirtouga",
+        "MAXCP": "1488",
+        "ATTACK": "134",
+        "DEFENSE": "146",
+        "STAMINA": "144"
+    },
+    "76": {
+        "name": "Carracosta",
+        "MAXCP": "2621",
+        "ATTACK": "192",
+        "DEFENSE": "197",
+        "STAMINA": "179"
+    },
+    "77": {
+        "name": "Archen",
+        "MAXCP": "1842",
+        "ATTACK": "213",
+        "DEFENSE": "89",
+        "STAMINA": "146"
+    },
+    "78": {
+        "name": "Archeops",
+        "MAXCP": "3331",
+        "ATTACK": "292",
+        "DEFENSE": "139",
+        "STAMINA": "181"
+    },
+    "79": {
+        "name": "Trubbish",
+        "MAXCP": "1000",
+        "ATTACK": "96",
+        "DEFENSE": "122",
+        "STAMINA": "137"
+    },
+    "80": {
+        "name": "Garbodor",
+        "MAXCP": "2345",
+        "ATTACK": "181",
+        "DEFENSE": "164",
+        "STAMINA": "190"
+    },
+    "81": {
+        "name": "Zorua",
+        "MAXCP": "1175",
+        "ATTACK": "153",
+        "DEFENSE": "78",
+        "STAMINA": "120"
+    },
+    "82": {
+        "name": "Zoroark",
+        "MAXCP": "2571",
+        "ATTACK": "250",
+        "DEFENSE": "127",
+        "STAMINA": "155"
+    },
+    "83": {
+        "name": "Minccino",
+        "MAXCP": "872",
+        "ATTACK": "98",
+        "DEFENSE": "80",
+        "STAMINA": "146"
+    },
+    "84": {
+        "name": "Cinccino",
+        "MAXCP": "2242",
+        "ATTACK": "198",
+        "DEFENSE": "130",
+        "STAMINA": "181"
+    },
+    "85": {
+        "name": "Gothita",
+        "MAXCP": "951",
+        "ATTACK": "98",
+        "DEFENSE": "112",
+        "STAMINA": "128"
+    },
+    "86": {
+        "name": "Gothorita",
+        "MAXCP": "1604",
+        "ATTACK": "137",
+        "DEFENSE": "153",
+        "STAMINA": "155"
+    },
+    "87": {
+        "name": "Gothitelle",
+        "MAXCP": "2419",
+        "ATTACK": "176",
+        "DEFENSE": "205",
+        "STAMINA": "172"
+    },
+    "88": {
+        "name": "Solosis",
+        "MAXCP": "1367",
+        "ATTACK": "170",
+        "DEFENSE": "83",
+        "STAMINA": "128"
+    },
+    "89": {
+        "name": "Duosion",
+        "MAXCP": "2018",
+        "ATTACK": "208",
+        "DEFENSE": "103",
+        "STAMINA": "163"
+    },
+    "90": {
+        "name": "Reuniclus",
+        "MAXCP": "2927",
+        "ATTACK": "214",
+        "DEFENSE": "148",
+        "STAMINA": "242"
+    },
+    "91": {
+        "name": "Ducklett",
+        "MAXCP": "856",
+        "ATTACK": "84",
+        "DEFENSE": "96",
+        "STAMINA": "158"
+    },
+    "92": {
+        "name": "Swanna",
+        "MAXCP": "2088",
+        "ATTACK": "182",
+        "DEFENSE": "132",
+        "STAMINA": "181"
+    },
+    "93": {
+        "name": "Vanillite",
+        "MAXCP": "1033",
+        "ATTACK": "118",
+        "DEFENSE": "106",
+        "STAMINA": "113"
+    },
+    "94": {
+        "name": "Vanillish",
+        "MAXCP": "1591",
+        "ATTACK": "151",
+        "DEFENSE": "138",
+        "STAMINA": "139"
+    },
+    "95": {
+        "name": "Vanilluxe",
+        "MAXCP": "2822",
+        "ATTACK": "218",
+        "DEFENSE": "184",
+        "STAMINA": "174"
+    },
+    "96": {
+        "name": "Deerling",
+        "MAXCP": "1135",
+        "ATTACK": "115",
+        "DEFENSE": "100",
+        "STAMINA": "155"
+    },
+    "97": {
+        "name": "Deerling (Autumn)",
+        "MAXCP": "1135",
+        "ATTACK": "115",
+        "DEFENSE": "100",
+        "STAMINA": "155"
+    },
+    "98": {
+        "name": "Deerling (Spring)",
+        "MAXCP": "1135",
+        "ATTACK": "115",
+        "DEFENSE": "100",
+        "STAMINA": "155"
+    },
+    "99": {
+        "name": "Deerling (Summer)",
+        "MAXCP": "1135",
+        "ATTACK": "115",
+        "DEFENSE": "100",
+        "STAMINA": "155"
+    }
+}

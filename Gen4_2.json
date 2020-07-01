@@ -1,0 +1,268 @@
+{
+    "0": {
+        "name": "Rotom (Fan)",
+        "MAXCP": "2579",
+        "ATTACK": "204",
+        "DEFENSE": "219",
+        "STAMINA": "137"
+    },
+    "1": {
+        "name": "Rotom (Frost)",
+        "MAXCP": "2579",
+        "ATTACK": "204",
+        "DEFENSE": "219",
+        "STAMINA": "137"
+    },
+    "2": {
+        "name": "Rotom (Heat)",
+        "MAXCP": "2579",
+        "ATTACK": "204",
+        "DEFENSE": "219",
+        "STAMINA": "137"
+    },
+    "3": {
+        "name": "Rotom (Mow)",
+        "MAXCP": "2579",
+        "ATTACK": "204",
+        "DEFENSE": "219",
+        "STAMINA": "137"
+    },
+    "4": {
+        "name": "Rotom (Wash)",
+        "MAXCP": "2579",
+        "ATTACK": "204",
+        "DEFENSE": "219",
+        "STAMINA": "137"
+    },
+    "5": {
+        "name": "Uxie",
+        "MAXCP": "2524",
+        "ATTACK": "156",
+        "DEFENSE": "270",
+        "STAMINA": "181"
+    },
+    "6": {
+        "name": "Mesprit",
+        "MAXCP": "3058",
+        "ATTACK": "212",
+        "DEFENSE": "212",
+        "STAMINA": "190"
+    },
+    "7": {
+        "name": "Azelf",
+        "MAXCP": "3210",
+        "ATTACK": "270",
+        "DEFENSE": "151",
+        "STAMINA": "181"
+    },
+    "8": {
+        "name": "Dialga",
+        "MAXCP": "4038",
+        "ATTACK": "275",
+        "DEFENSE": "211",
+        "STAMINA": "205"
+    },
+    "9": {
+        "name": "Palkia",
+        "MAXCP": "3991",
+        "ATTACK": "280",
+        "DEFENSE": "215",
+        "STAMINA": "189"
+    },
+    "10": {
+        "name": "Heatran",
+        "MAXCP": "3754",
+        "ATTACK": "251",
+        "DEFENSE": "213",
+        "STAMINA": "209"
+    },
+    "11": {
+        "name": "Regigigas",
+        "MAXCP": "4346",
+        "ATTACK": "287",
+        "DEFENSE": "210",
+        "STAMINA": "221"
+    },
+    "12": {
+        "name": "Giratina (Altered)",
+        "MAXCP": "3379",
+        "ATTACK": "187",
+        "DEFENSE": "225",
+        "STAMINA": "284"
+    },
+    "13": {
+        "name": "Giratina (Origin)",
+        "MAXCP": "3683",
+        "ATTACK": "225",
+        "DEFENSE": "187",
+        "STAMINA": "284"
+    },
+    "14": {
+        "name": "Cresselia",
+        "MAXCP": "2857",
+        "ATTACK": "152",
+        "DEFENSE": "258",
+        "STAMINA": "260"
+    },
+    "15": {
+        "name": "Phione",
+        "MAXCP": "2105",
+        "ATTACK": "162",
+        "DEFENSE": "162",
+        "STAMINA": "190"
+    },
+    "16": {
+        "name": "Manaphy",
+        "MAXCP": "3265",
+        "ATTACK": "210",
+        "DEFENSE": "210",
+        "STAMINA": "225"
+    },
+    "17": {
+        "name": "Darkrai",
+        "MAXCP": "3739",
+        "ATTACK": "285",
+        "DEFENSE": "198",
+        "STAMINA": "172"
+    },
+    "18": {
+        "name": "Shaymin (Land)",
+        "MAXCP": "3265",
+        "ATTACK": "210",
+        "DEFENSE": "210",
+        "STAMINA": "225"
+    },
+    "19": {
+        "name": "Shaymin (Sky)",
+        "MAXCP": "3592",
+        "ATTACK": "261",
+        "DEFENSE": "166",
+        "STAMINA": "225"
+    },
+    "20": {
+        "name": "Arceus (Bug)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "21": {
+        "name": "Arceus (Dark)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "22": {
+        "name": "Arceus (Dragon)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "23": {
+        "name": "Arceus (Electric)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "24": {
+        "name": "Arceus (Fairy)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "25": {
+        "name": "Arceus (Fighting)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "26": {
+        "name": "Arceus (Fire)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "27": {
+        "name": "Arceus (Flying)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "28": {
+        "name": "Arceus (Ghost)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "29": {
+        "name": "Arceus (Grass)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "30": {
+        "name": "Arceus (Ground)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "31": {
+        "name": "Arceus (Ice)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "32": {
+        "name": "Arceus (Normal)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "33": {
+        "name": "Arceus (Poison)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "34": {
+        "name": "Arceus (Psychic)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "35": {
+        "name": "Arceus (Rock)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "36": {
+        "name": "Arceus (Steel)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    },
+    "37": {
+        "name": "Arceus (Water)",
+        "MAXCP": "3989",
+        "ATTACK": "238",
+        "DEFENSE": "238",
+        "STAMINA": "237"
+    }
+}

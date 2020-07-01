@@ -1,0 +1,23 @@
+{
+    "0": {
+        "name": "Obstagoon",
+        "MAXCP": "2652",
+        "ATTACK": "180",
+        "DEFENSE": "194",
+        "STAMINA": "212"
+    },
+    "1": {
+        "name": "Perrserker",
+        "MAXCP": "2386",
+        "ATTACK": "195",
+        "DEFENSE": "162",
+        "STAMINA": "172"
+    },
+    "2": {
+        "name": "Sirfetch'd",
+        "MAXCP": "2985",
+        "ATTACK": "248",
+        "DEFENSE": "176",
+        "STAMINA": "158"
+    }
+}
