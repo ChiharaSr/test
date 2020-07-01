@@ -1,0 +1,478 @@
+{
+    "0": {
+        "name": "Acid",
+        "type": "Poison",
+        "power": "6",
+        "energy": "5",
+        "Cooldown": "2"
+    },
+    "1": {
+        "name": "Air Slash",
+        "type": "Flying",
+        "power": "9",
+        "energy": "9",
+        "Cooldown": "3"
+    },
+    "2": {
+        "name": "Astonish",
+        "type": "Ghost",
+        "power": "5",
+        "energy": "9",
+        "Cooldown": "3"
+    },
+    "3": {
+        "name": "Bite",
+        "type": "Dark",
+        "power": "4",
+        "energy": "2",
+        "Cooldown": "1"
+    },
+    "4": {
+        "name": "Bubble",
+        "type": "Water",
+        "power": "8",
+        "energy": "11",
+        "Cooldown": "3"
+    },
+    "5": {
+        "name": "Bug Bite",
+        "type": "Bug",
+        "power": "3",
+        "energy": "3",
+        "Cooldown": "1"
+    },
+    "6": {
+        "name": "Bullet Punch",
+        "type": "Steel",
+        "power": "6",
+        "energy": "7",
+        "Cooldown": "2"
+    },
+    "7": {
+        "name": "Bullet Seed",
+        "type": "Grass",
+        "power": "5",
+        "energy": "13",
+        "Cooldown": "3"
+    },
+    "8": {
+        "name": "Charge Beam",
+        "type": "Electric",
+        "power": "5",
+        "energy": "11",
+        "Cooldown": "3"
+    },
+    "9": {
+        "name": "Charm",
+        "type": "Fairy",
+        "power": "16",
+        "energy": "6",
+        "Cooldown": "3"
+    },
+    "10": {
+        "name": "Confusion",
+        "type": "Psychic",
+        "power": "16",
+        "energy": "12",
+        "Cooldown": "4"
+    },
+    "11": {
+        "name": "Counter",
+        "type": "Fighting",
+        "power": "8",
+        "energy": "7",
+        "Cooldown": "2"
+    },
+    "12": {
+        "name": "Cut",
+        "type": "Normal",
+        "power": "3",
+        "energy": "2",
+        "Cooldown": "1"
+    },
+    "13": {
+        "name": "Dragon Breath",
+        "type": "Dragon",
+        "power": "4",
+        "energy": "3",
+        "Cooldown": "1"
+    },
+    "14": {
+        "name": "Dragon Tail",
+        "type": "Dragon",
+        "power": "9",
+        "energy": "10",
+        "Cooldown": "3"
+    },
+    "15": {
+        "name": "Ember",
+        "type": "Fire",
+        "power": "6",
+        "energy": "6",
+        "Cooldown": "2"
+    },
+    "16": {
+        "name": "Extrasensory",
+        "type": "Psychic",
+        "power": "8",
+        "energy": "10",
+        "Cooldown": "3"
+    },
+    "17": {
+        "name": "Feint Attack",
+        "type": "Dark",
+        "power": "6",
+        "energy": "6",
+        "Cooldown": "2"
+    },
+    "18": {
+        "name": "Fire Fang",
+        "type": "Fire",
+        "power": "8",
+        "energy": "5",
+        "Cooldown": "2"
+    },
+    "19": {
+        "name": "Fire Spin",
+        "type": "Fire",
+        "power": "9",
+        "energy": "10",
+        "Cooldown": "3"
+    },
+    "20": {
+        "name": "Frost Breath",
+        "type": "Ice",
+        "power": "7",
+        "energy": "5",
+        "Cooldown": "2"
+    },
+    "21": {
+        "name": "Fury Cutter",
+        "type": "Bug",
+        "power": "2",
+        "energy": "4",
+        "Cooldown": "1"
+    },
+    "22": {
+        "name": "Hex",
+        "type": "Ghost",
+        "power": "6",
+        "energy": "11",
+        "Cooldown": "3"
+    },
+    "23": {
+        "name": "Hidden Power",
+        "type": "Normal",
+        "power": "9",
+        "energy": "8",
+        "Cooldown": "3"
+    },
+    "24": {
+        "name": "Ice Fang",
+        "type": "Ice",
+        "power": "8",
+        "energy": "5",
+        "Cooldown": "2"
+    },
+    "25": {
+        "name": "Ice Shard",
+        "type": "Ice",
+        "power": "9",
+        "energy": "10",
+        "Cooldown": "3"
+    },
+    "26": {
+        "name": "Infestation",
+        "type": "Bug",
+        "power": "6",
+        "energy": "11",
+        "Cooldown": "3"
+    },
+    "27": {
+        "name": "Iron Tail",
+        "type": "Steel",
+        "power": "9",
+        "energy": "6",
+        "Cooldown": "3"
+    },
+    "28": {
+        "name": "Karate Chop",
+        "type": "Fighting",
+        "power": "5",
+        "energy": "7",
+        "Cooldown": "2"
+    },
+    "29": {
+        "name": "Lick",
+        "type": "Ghost",
+        "power": "3",
+        "energy": "3",
+        "Cooldown": "1"
+    },
+    "30": {
+        "name": "Lock On",
+        "type": "Normal",
+        "power": "1",
+        "energy": "5",
+        "Cooldown": "1"
+    },
+    "31": {
+        "name": "Low Kick",
+        "type": "Fighting",
+        "power": "4",
+        "energy": "5",
+        "Cooldown": "2"
+    },
+    "32": {
+        "name": "Metal Claw",
+        "type": "Steel",
+        "power": "5",
+        "energy": "6",
+        "Cooldown": "2"
+    },
+    "33": {
+        "name": "Mud Shot",
+        "type": "Ground",
+        "power": "3",
+        "energy": "9",
+        "Cooldown": "2"
+    },
+    "34": {
+        "name": "Mud Slap",
+        "type": "Ground",
+        "power": "11",
+        "energy": "8",
+        "Cooldown": "3"
+    },
+    "35": {
+        "name": "Peck",
+        "type": "Flying",
+        "power": "6",
+        "energy": "5",
+        "Cooldown": "2"
+    },
+    "36": {
+        "name": "Poison Jab",
+        "type": "Poison",
+        "power": "6",
+        "energy": "7",
+        "Cooldown": "2"
+    },
+    "37": {
+        "name": "Poison Sting",
+        "type": "Poison",
+        "power": "3",
+        "energy": "6",
+        "Cooldown": "2"
+    },
+    "38": {
+        "name": "Pound",
+        "type": "Normal",
+        "power": "5",
+        "energy": "4",
+        "Cooldown": "2"
+    },
+    "39": {
+        "name": "Powder Snow",
+        "type": "Ice",
+        "power": "4",
+        "energy": "8",
+        "Cooldown": "2"
+    },
+    "40": {
+        "name": "Present",
+        "type": "Normal",
+        "power": "3",
+        "energy": "12",
+        "Cooldown": "3"
+    },
+    "41": {
+        "name": "Psycho Cut",
+        "type": "Psychic",
+        "power": "3",
+        "energy": "9",
+        "Cooldown": "2"
+    },
+    "42": {
+        "name": "Quick Attack",
+        "type": "Normal",
+        "power": "5",
+        "energy": "7",
+        "Cooldown": "2"
+    },
+    "43": {
+        "name": "Razor Leaf",
+        "type": "Grass",
+        "power": "11",
+        "energy": "4",
+        "Cooldown": "2"
+    },
+    "44": {
+        "name": "Rock Smash",
+        "type": "Fighting",
+        "power": "9",
+        "energy": "7",
+        "Cooldown": "3"
+    },
+    "45": {
+        "name": "Rock Throw",
+        "type": "Rock",
+        "power": "8",
+        "energy": "5",
+        "Cooldown": "2"
+    },
+    "46": {
+        "name": "Scratch",
+        "type": "Normal",
+        "power": "4",
+        "energy": "2",
+        "Cooldown": "1"
+    },
+    "47": {
+        "name": "Shadow Claw",
+        "type": "Ghost",
+        "power": "6",
+        "energy": "8",
+        "Cooldown": "2"
+    },
+    "48": {
+        "name": "Smack Down",
+        "type": "Rock",
+        "power": "12",
+        "energy": "8",
+        "Cooldown": "3"
+    },
+    "49": {
+        "name": "Snarl",
+        "type": "Dark",
+        "power": "5",
+        "energy": "13",
+        "Cooldown": "3"
+    },
+    "50": {
+        "name": "Spark",
+        "type": "Electric",
+        "power": "4",
+        "energy": "8",
+        "Cooldown": "2"
+    },
+    "51": {
+        "name": "Splash",
+        "type": "Water",
+        "power": "0",
+        "energy": "12",
+        "Cooldown": "4"
+    },
+    "52": {
+        "name": "Steel Wing",
+        "type": "Steel",
+        "power": "7",
+        "energy": "5",
+        "Cooldown": "2"
+    },
+    "53": {
+        "name": "Struggle Bug",
+        "type": "Bug",
+        "power": "9",
+        "energy": "8",
+        "Cooldown": "3"
+    },
+    "54": {
+        "name": "Sucker Punch",
+        "type": "Dark",
+        "power": "5",
+        "energy": "7",
+        "Cooldown": "2"
+    },
+    "55": {
+        "name": "Tackle",
+        "type": "Normal",
+        "power": "3",
+        "energy": "2",
+        "Cooldown": "1"
+    },
+    "56": {
+        "name": "Take Down",
+        "type": "Normal",
+        "power": "5",
+        "energy": "8",
+        "Cooldown": "3"
+    },
+    "57": {
+        "name": "Thunder Fang",
+        "type": "Electric",
+        "power": "8",
+        "energy": "5",
+        "Cooldown": "2"
+    },
+    "58": {
+        "name": "Thunder Shock",
+        "type": "Electric",
+        "power": "3",
+        "energy": "9",
+        "Cooldown": "2"
+    },
+    "59": {
+        "name": "Transform",
+        "type": "Normal",
+        "power": "0",
+        "energy": "0",
+        "Cooldown": "6"
+    },
+    "60": {
+        "name": "Vine Whip",
+        "type": "Grass",
+        "power": "5",
+        "energy": "8",
+        "Cooldown": "2"
+    },
+    "61": {
+        "name": "Volt Switch",
+        "type": "Electric",
+        "power": "12",
+        "energy": "16",
+        "Cooldown": "4"
+    },
+    "62": {
+        "name": "Water Gun",
+        "type": "Water",
+        "power": "3",
+        "energy": "3",
+        "Cooldown": "1"
+    },
+    "63": {
+        "name": "Water Gun Blastoise",
+        "type": "Water",
+        "power": "6",
+        "energy": "4",
+        "Cooldown": "2"
+    },
+    "64": {
+        "name": "Waterfall",
+        "type": "Water",
+        "power": "12",
+        "energy": "8",
+        "Cooldown": "3"
+    },
+    "65": {
+        "name": "Wing Attack",
+        "type": "Flying",
+        "power": "5",
+        "energy": "7",
+        "Cooldown": "2"
+    },
+    "66": {
+        "name": "Yawn",
+        "type": "Normal",
+        "power": "0",
+        "energy": "12",
+        "Cooldown": "4"
+    },
+    "67": {
+        "name": "Zen Headbutt",
+        "type": "Psychic",
+        "power": "8",
+        "energy": "6",
+        "Cooldown": "3"
+    }
+}
